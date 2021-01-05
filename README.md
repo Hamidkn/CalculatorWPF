@@ -1,2 +1,3 @@
 # CalculatorWPF
-https://github.com/Hamidkn/CalculatorWPF/blob/master/ss.png
+
+![alt text](https://github.com/Hamidkn/CalculatorWPF/blob/master/ss.png?raw=true)
